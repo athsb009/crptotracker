@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crptotracker/static/css/main.8fc7807e.css",
+    "main.js": "/crptotracker/static/js/main.15184843.js",
+    "static/js/787.bc7384fd.chunk.js": "/crptotracker/static/js/787.bc7384fd.chunk.js",
+    "index.html": "/crptotracker/index.html",
+    "main.8fc7807e.css.map": "/crptotracker/static/css/main.8fc7807e.css.map",
+    "main.15184843.js.map": "/crptotracker/static/js/main.15184843.js.map",
+    "787.bc7384fd.chunk.js.map": "/crptotracker/static/js/787.bc7384fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fc7807e.css",
+    "static/js/main.15184843.js"
+  ]
+}
